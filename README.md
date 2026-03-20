@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hey, I'm Mahdi Hasan 👋
 
-<!--
-**IMahdihasan/IMahdihasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineering student focused on building scalable and efficient systems.  
+I work mainly with *Java, Spring Boot, and modern web technologies*, with a strong foundation in core CS concepts.
 
-Here are some ideas to get you started:
+My goal is to become a high-level software engineer by mastering system design, backend development, and problem solving. And I want to make scalable
+and optimized Software System. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+💻 Backend Development ➡︎ Java, Spring Boot  
+🌐 Frontend ➡︎ HTML, CSS, Tailwind, React (basic)  
+🗄️ Database ➡︎ MySQL, SQL  
+🧠 Core CS ➡︎ DSA, OOP, Operating Systems  
+🚀 Interests ➡︎ System Design, AI, Scalable Applications  
+
+---
+
+📫 GitHub ➡︎ https://github.com/mahbuburrahman21  
+💻 LinkedIn ➡︎ https://www.linkedin.com/in/md-mahbubur-rahman-149312246/
